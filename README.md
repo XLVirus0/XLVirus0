@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Roham. I'm a professional Graphic Designer and Programmer from Iran</h2>
+<h2 align="left">Hi 👋! My name is Roham. I'm a professional Graphic Designer, Programmer and Game Developer from Iran</h2>
 
 ###
 
