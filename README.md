@@ -8,7 +8,7 @@
 <p align="left">I specialize in game development using **Unreal Engine**, with a focus on **Blueprints**. Currently, I'm working on an action shooter game called **Hotel Ghods**, which you can check out here: <a href="https://hotel-ghods.xlvirus.ir/" target="_blank">Hotel Ghods</a>. It's an exciting project that showcases my skills in game mechanics, level design, and storytelling.</p>
 
 <h3 align="left">Programming & Web Design</h3>
-<p align="left">Programming is another key area of my expertise. I am comfortable working with languages like JavaScript, Python, and C++. Additionally, I design sleek, responsive websites using tools like Figma, Visual Studio Code, and cPanel, ensuring an excellent user experience across all devices. One of my recent projects is **FilmArcade**, a movie stream and download website that you can view here: <a href="https://filmarcade.xlvirus.ir/" target="_blank">FilmArcade</a>.</p>
+<p align="left">Programming is another key area of my expertise. I am comfortable working with languages like Python, Html, CSS and JavaScript. Additionally, I design sleek, responsive websites using tools like Figma, Visual Studio Code, and cPanel, ensuring an excellent user experience across all devices. One of my recent projects is **FilmArcade**, a movie stream and download website that you can view here: <a href="https://filmarcade.xlvirus.ir/" target="_blank">FilmArcade</a>.</p>
 
 <p align="left">I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.</p>
 
