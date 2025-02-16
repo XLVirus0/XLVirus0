@@ -1,4 +1,16 @@
-<h2 align="left">Hi 👋! My name is Roham. I'm a professional Graphic Designer, Programmer, and Game Developer from Iran with a passion for video games, web design, and video editing.</h2>
+<h2 align="left">Hi 👋! My name is Roham</h2>
+<p align="left">I'm a passionate and creative professional from Iran, specializing in Graphic Design, Programming, and Game Development. With years of experience in the industry, I've developed a deep understanding of visual storytelling and interactive design.</p>
+
+<h3 align="left">Graphic Design & Video Editing</h3>
+<p align="left">As a skilled Graphic Designer, I’ve worked extensively with Adobe Photoshop and Illustrator to create stunning visuals, logos, and digital assets. My expertise extends to video editing with Adobe Premiere and After Effects, where I bring projects to life with cinematic quality.</p>
+
+<h3 align="left">Game Development</h3>
+<p align="left">I am a Game Developer with a strong focus on Unreal Engine. I create immersive, interactive experiences, leveraging both Blueprint and C++ for robust game mechanics. I am always exploring new ways to push the boundaries of what's possible in the world of gaming.</p>
+
+<h3 align="left">Programming & Web Design</h3>
+<p align="left">Programming is another key area of my expertise. I am comfortable working with languages like JavaScript, Python, and C++. Additionally, I design sleek, responsive websites using tools like Figma, Visual Studio Code, and cPanel, ensuring an excellent user experience across all devices.</p>
+
+<p align="left">I'm constantly learning and growing, staying up-to-date with the latest trends and technologies. Whether it's crafting a beautiful user interface or developing an innovative game mechanic, I thrive on turning ideas into reality.</p>
 
 ###
 
